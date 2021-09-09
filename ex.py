@@ -1,2 +1,2 @@
 number = int(input("endter a number."))
-print()
+print("The number is {}.".format(number)))
